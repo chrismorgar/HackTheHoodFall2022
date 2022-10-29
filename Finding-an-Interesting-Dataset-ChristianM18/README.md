@@ -1,4 +1,4 @@
-The reason I choose this dataset was becuase as technology is becoming more accessible, ads have progressively gotten worse as in more visible. I briegly am aware of the pyschological tactics used to altered consumers/vieweres opions from previous sociaolgy classes like FOMO(fear of missing out) or artifical happiness, as in without that particular item one will not feel as complete. I also choose this dataset becuase I'm curious to know how other factors impact like income impact consumerism. 
+The reason I choose this dataset was because as technology is becoming more accessible, ads have progressively gotten worse as in more visible. I briefly am aware of the psychological tactics used to altered consumers/viewers opinions from previous sociology classes like FOMO(fear of missing out) or artificial happiness, as in without that particular item one will not feel as complete. I also choose this dataset because I'm curious to know how other factors impact like income impact consumerism.
 
 Questions:
 1. How does income impact how consumers react to ads?
